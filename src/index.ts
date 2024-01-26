@@ -1,3 +1,3 @@
-import { test } from "./search/depthFirstSearch";
+import { test } from "./search/breadthFirstSearch";
 
 test();
