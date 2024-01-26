@@ -1,3 +1,3 @@
-import { test } from "./search/breadthFirstSearch";
+import { test } from "./sort/mergeSort";
 
 test();
