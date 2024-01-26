@@ -1,3 +1,3 @@
-import { test } from "./search/binarySearch";
+import { test } from "./search/depthFirstSearch";
 
-test(10_000_000, 4_892_234);
+test();
